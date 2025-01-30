@@ -16,11 +16,10 @@ text-align: center;
 & .buttons {
     justify-content: center;
     margin-top: 2rem;
-    margin-top: 2rem;
-}
+    }
 }
 
-@media (width >= 80rem) {
+@media (width >= 80em) {
     #hero {
         background: url(../assets/icons/bg-hero-desktop.svg) no-repeat bottom center/contain;
         padding-bottom: 15rem;

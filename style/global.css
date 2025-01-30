@@ -66,10 +66,15 @@ h3 {
     font-size: var(--fs-lg);
 }
 
+.desktop-only {
+    display: none;
+}
+
 a {
     text-decoration: none;
-    color: inherit;
+    color:  inherit;
 }
+
 a:hover {
     background: linear-gradient(
         90deg, 
@@ -79,14 +84,16 @@ a:hover {
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+
 }
 
 ul [role="list"] {
     list-style: none;
 }
 
-.desktop-only {
-    display: none;
+img {
+    max-width: 100%;
+    display: inline-block;
 }
 
 .even-columns {
