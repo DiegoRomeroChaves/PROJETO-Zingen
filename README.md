@@ -5,9 +5,11 @@ A página foi projetada para ser totalmente adaptável a diferentes tamanhos de 
 🛠 Tecnologias Utilizadas:
 
 HTML5 📝
+
 CSS3 🎨
 
 Com foco na simplicidade e funcionalidade, este projeto demonstra a importância do design responsivo, garantindo que a página se ajuste perfeitamente a qualquer dispositivo.
+
 Imagem do Projeto
 
 
